@@ -1,3 +1,11 @@
+<h1 align="center">Portfolio Collection</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Portfolios-3178C6?style=for-the-badge" alt="Portfolios" />
+  <img src="https://img.shields.io/badge/Web%20Development-7C3AED?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Community-0F766E?style=for-the-badge" alt="Community" />
+</p>
+
 ![Portfolio-Collection](https://socialify.git.ci/avinash201199/Portfolio-Collection/image?font=Jost&forks=1&issues=1&name=1&owner=1&stargazers=1&theme=Auto)
 <div align="center">
 <strong>Welcome to Portfolio-Collection repository 🚀</strong>
